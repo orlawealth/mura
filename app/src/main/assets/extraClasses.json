@@ -1,0 +1,62 @@
+[
+  {
+    "buildingName": "Flaxman Building",
+    "room": "F101",
+    "lecturer": "Dr. John Doe",
+    "phoneNumber": "+441234567890",
+    "courseName": "Mobile Application Development",
+    "description": "This module introduces how to develop apps both native and web based for a range of mobile platforms. You will gain exposure to Android and iOS; You will learn key features of mobile application development and build mobile applications which will run across multiple devices.",
+    "day": "Monday",
+    "time": "10:00 - 12:00"
+  },
+  {
+    "buildingName": "Beacon",
+    "room": "B301",
+    "lecturer": "Prof. Sarah Green",
+    "phoneNumber": "+441234567896",
+    "courseName": "Research Methods",
+    "description": "In this course, we understand and master the research methodology used in\ncomputer science. The main aim is to help you prepare for your dissertation. The\nmodule will cover everything from experiment design concepts to statistics to\ndifferent parts of reading, writing, assessing papers, and presenting research.\nThroughout the semester, you will be given assignments that will allow you to\npractice the different research skills and approaches discussed in class.\nYou will write a research proposal which will present an example on how to plan\nfor your dissertation and you will learn how to use SPSS software to analyse and\npresent your results. The module is designed to help you succeed. There are a\nlot of opportunities for individual tutorials and formative feedback. You will be\nable to give a practice presentation before you give your final presentation.",
+    "day": "Friday",
+    "time": "10:00 - 12:00"
+  },
+  {
+    "buildingName": "Science Centre",
+    "room": "SC201",
+    "lecturer": "Dr. Alice Cooper",
+    "phoneNumber": "+441234567892",
+    "courseName": "Enterprise Cloud Computing in the AWS Environment",
+    "description": "This module introduces how to develop apps both native and web based for a range of mobile platforms. You will gain exposure to Android and iOS; You will learn key features of mobile application development and build mobile applications which will run across multiple devices.",
+    "day": "Wednesday",
+    "time": "10:00 - 12:00"
+  },
+  {
+    "buildingName": "Science Centre",
+    "room": "SC202",
+    "lecturer": "Prof. Bob Johnson",
+    "phoneNumber": "+441234567893",
+    "courseName": "Web Application Programming",
+    "description": "This module is designed to be both fun and challenging, as we dive into the world of PHP and its frameworks.\nWe will be working together to create a web application using PHP and focusing on good programming techniques and a deeper understanding of frameworks. \nThe learning materials used in this course are designed for independent learning and consist of recorded videos, embedded PDFs, PowerPoint, and interactive training from professional trainers, including sample code and guided explanations.\nEach week, there will be worksheets and sample code to be completed before moving on to the next section.\nI highly recommend completing all of these worksheets at least once, as this information will build up to allow you to become proficient and knowledgeable in the subject. I will also be asking for updates on your progress throughout the course.\nPlease make sure to check the weekly schedule for topics and important dates.\nIf you have any questions or concerns, please don't hesitate to reach out to me at d.keiher@staffs.ac.uk.\nI am looking forward to meeting you all and working together to achieve our goals.\nBest Regards, Des Keiher",
+    "day": "Thursday",
+    "time": "14:00 - 16:00"
+  },
+  {
+    "buildingName": "Flaxman Building",
+    "room": "F102",
+    "lecturer": "Prof. Jane Smith",
+    "phoneNumber": "+441234567891",
+    "courseName": "Research Methods",
+    "description": "In this course, we understand and master the research methodology used in\ncomputer science. The main aim is to help you prepare for your dissertation. The\nmodule will cover everything from experiment design concepts to statistics to\ndifferent parts of reading, writing, assessing papers, and presenting research.\nThroughout the semester, you will be given assignments that will allow you to\npractice the different research skills and approaches discussed in class.\nYou will write a research proposal which will present an example on how to plan\nfor your dissertation and you will learn how to use SPSS software to analyse and\npresent your results. The module is designed to help you succeed. There are a\nlot of opportunities for individual tutorials and formative feedback. You will be\nable to give a practice presentation before you give your final presentation.",
+    "day": "Tuesday",
+    "time": "14:00 - 16:00"
+  },
+  {
+    "buildingName": "Beacon",
+    "room": "B302",
+    "lecturer": "Dr. Robert Black",
+    "phoneNumber": "+441234567897",
+    "courseName": "Enterprise Cloud Computing in the AWS Environment",
+    "description": "This module introduces how to develop apps both native and web based for a range of mobile platforms. You will gain exposure to Android and iOS; You will learn key features of mobile application development and build mobile applications which will run across multiple devices.",
+    "day": "Monday",
+    "time": "14:00 - 16:00"
+  }
+]

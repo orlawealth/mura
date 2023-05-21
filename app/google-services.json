@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338571305241",
+    "project_id": "mobile-assessment-71a40",
+    "storage_bucket": "mobile-assessment-71a40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338571305241:android:680ce883c72d44769e2588",
+        "android_client_info": {
+          "package_name": "com.example.ola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338571305241-vif3imbdmf0hbpeu5md966hc4cqf8vq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwXmiS1Lqzpw7UDxn8mwGXXVR_VvQtnP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338571305241-vif3imbdmf0hbpeu5md966hc4cqf8vq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

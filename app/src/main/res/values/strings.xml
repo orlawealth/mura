@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MURA</string>
+
+    <string name="loginText">Login</string>
+    <string name="registrationPageLabel">Register Account</string>
+    <string name="loginNoAccount">Don\'t have an account?</string>
+    <string name="registerText">Register</string>
+    <string name="emailHint">Enter email</string>
+    <string name="passwordHint">Enter password</string>
+    <string name="numberHint">Enter Phone Number</string>
+
+    <string name="registerAccountText">Register Account</string>
+
+    <string name="darkModeText">Dark Mode</string>
+    <string name="batteryInformationText">Battery Information</string>
+    <string name="networkInformationText">Network Information</string>
+    <string name="memoryInformationText">Memory Information</string>
+    <string name="storageInformationText">Storage Information</string>
+    <string name="settingsText">Settings</string>
+    <string name="logoutText">Logout</string>
+
+</resources>
